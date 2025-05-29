@@ -19,7 +19,6 @@ This project uses the [Rossmann Store Sales dataset](https://www.kaggle.com/c/ro
 ### Prerequisites
 - Python 3.8+
 - Kaggle API credentials
-- Git (optional, for cloning the repository)
 
 ### Python Dependencies
 All required Python packages are listed in `requirements.txt`. Install them using:
